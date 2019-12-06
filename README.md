@@ -3,6 +3,8 @@
 
 I got a new Mac, and upgraded to Catalina. Got to do something excited, YE!
 
+My progress is posted [here](https://twitter.com/EmmaCao2010).
+
 
 ## Rules
 1. Every day you spend one hour reading or watching SwiftUI tutorials, or writing SwiftUI code.
