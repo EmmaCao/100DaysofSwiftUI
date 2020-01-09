@@ -13,6 +13,7 @@
 		B5AF148423AB0DFB008668AC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B5AF148323AB0DFB008668AC /* Assets.xcassets */; };
 		B5AF148723AB0DFB008668AC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B5AF148623AB0DFB008668AC /* Preview Assets.xcassets */; };
 		B5AF148A23AB0DFB008668AC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B5AF148823AB0DFB008668AC /* LaunchScreen.storyboard */; };
+		B5F61AB423C6B5E800F9DF27 /* FlagImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5F61AB323C6B5E800F9DF27 /* FlagImage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		B5AF148623AB0DFB008668AC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		B5AF148923AB0DFB008668AC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B5AF148B23AB0DFB008668AC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B5F61AB323C6B5E800F9DF27 /* FlagImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlagImage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				B5AF147D23AB0DF9008668AC /* AppDelegate.swift */,
 				B5AF147F23AB0DF9008668AC /* SceneDelegate.swift */,
 				B5AF148123AB0DF9008668AC /* ContentView.swift */,
+				B5F61AB323C6B5E800F9DF27 /* FlagImage.swift */,
 				B5AF148323AB0DFB008668AC /* Assets.xcassets */,
 				B5AF148823AB0DFB008668AC /* LaunchScreen.storyboard */,
 				B5AF148B23AB0DFB008668AC /* Info.plist */,
@@ -149,6 +152,7 @@
 				B5AF147E23AB0DF9008668AC /* AppDelegate.swift in Sources */,
 				B5AF148023AB0DF9008668AC /* SceneDelegate.swift in Sources */,
 				B5AF148223AB0DF9008668AC /* ContentView.swift in Sources */,
+				B5F61AB423C6B5E800F9DF27 /* FlagImage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
